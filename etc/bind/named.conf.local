@@ -1,0 +1,21 @@
+zone "videopro.com"
+{
+	type master;
+	file "/var/lib/bind/db.videopro.com";
+};
+
+// Zonas inversas
+
+// Red No1: 172.17.55.0/24
+zone "55.17.172.in-addr.arpa"
+{
+	type master;
+	file "/var/lib/bind/db.172.17.55";
+};
+
+// Red No2: 172.17.56.0/24
+zone "56.17.172.in-addr.arpa"
+{
+	type master;
+	file "/var/lib/bind/db.172.17.56";
+};
