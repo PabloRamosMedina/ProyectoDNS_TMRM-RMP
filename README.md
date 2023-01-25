@@ -216,8 +216,19 @@ Debian 5 y 6
 ![Alt text](Imágenes/Act7ResolvConfDebian5y6-RMP.png)
 
 
+**Actividad 8:**
 
+A continuación asignaremos los registros especiales
 
+* Pablo:
+
+![Alt text](Imágenes/Act8RegistrosEspeciales-RMP.png)
+
+* Raúl:
+
+![Alt text](Imágenes/Act8RegistrosEspeciales-TMRM-1.png)
+
+![Alt text](Imágenes/Act8RegistrosEspeciales-TMRM-2.png)
 
 
 
