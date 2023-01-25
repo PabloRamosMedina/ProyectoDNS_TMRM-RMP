@@ -159,7 +159,7 @@ Y ahora pasaremos a ver las configuraciones de los ficheros de Zona Inversa:
 **Actividad  6:**
 
 Para esto instalaremos en nuestro Debian1-Pruebas el servicio DNS.
-En general lo único que deberemos hacer es instalar el servicio DNS en el Debian1-Pruebas, posteriormente solo deberemos poner que el Debian5-Pruebas y Debian 6-Pruebas apunten al Debian1-Pruebas como última opción para que busque en internet
+> En general lo único que deberemos hacer es instalar el servicio DNS en el Debian1-Pruebas, posteriormente solo deberemos poner que el Debian5-Pruebas y Debian 6-Pruebas apunten al Debian1-Pruebas como última opción para que busque en internet.
 
 
 
