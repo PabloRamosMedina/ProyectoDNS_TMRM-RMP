@@ -7,14 +7,17 @@
   <img width="500" height="500" src="Imágenes/DNS.png">
 </p>
 
-
 <br> <br>
+
+* Actividad 1:
 
 La infraestructura seguida para nuestro proyecto es la siguiente:
 <br> <br>
 ![Alt text](Imágenes/infraestructuraDNS.png)
 
 <br> <br>
+
+* Actividad 2:
 
 A continuación comrobaremos el funcionammiento del DNS en los dos servidores de nombre:  
 * Debian5-Pruebas
@@ -44,6 +47,8 @@ A continuación comrobaremos el funcionammiento del DNS en los dos servidores de
   <br> <br>
   
 <br> <br>
+
+* Actividad 3:
 
 Otra parte importante de nuestro proyecto son los espacios de nombre usados los cuales son:
 <br> <br>
