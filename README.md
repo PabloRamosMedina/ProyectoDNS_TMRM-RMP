@@ -297,12 +297,12 @@ En este trabajo hemos visto sus posibilidades y a nuestro parecer creemos que no
 
 Páginas y documentos que hemos visitado y nos han sido útiles para este trabajo.
 
-<https://docs.google.com/document/d/1SeBMEK_E_k2IVPu3FuOnJSZEZruWPnddoj-okjIqnGI/edit>
-<https://github.com/>
-<https://creativecommons.org/licenses/?lang=es_ES>
-<https://stackoverflow.com/questions/2643502/git-how-to-solve-permission-denied-publickey-error-when-using-git>
-<https://es.stackoverflow.com/questions/77684/c%C3%B3mo-crear-carpetas-en-un-repositorio-de-github-sin-usar-git>
-<https://chuletitaspinguino.wordpress.com/2016/11/05/crear-indices-con-markdown/>
+* <https://docs.google.com/document/d/1SeBMEK_E_k2IVPu3FuOnJSZEZruWPnddoj-okjIqnGI/edit>
+* <https://github.com/>
+* <https://creativecommons.org/licenses/?lang=es_ES>
+* <https://stackoverflow.com/questions/2643502/git-how-to-solve-permission-denied-publickey-error-when-using-git>
+* <https://es.stackoverflow.com/questions/77684/c%C3%B3mo-crear-carpetas-en-un-repositorio-de-github-sin-usar-git>
+* <https://chuletitaspinguino.wordpress.com/2016/11/05/crear-indices-con-markdown/>
 
   
 # Despedida y Agradecimientos
