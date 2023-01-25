@@ -7,6 +7,10 @@
 
 <br> <br>
 
+* Actividad 1:
+
+<br> <br>
+
 La infraestructura seguida para nuestro proyecto es la siguiente:
 <br> <br>
 ![Alt text](Imágenes/infraestructuraDNS.png)
