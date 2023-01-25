@@ -3,7 +3,7 @@
 
 <br> <br>
 
-![Alt text](Imágenes/DNS.png)
+<center>![Alt text](Imágenes/DNS.png)</center>
 
 <br> <br>
 
