@@ -218,7 +218,7 @@ Debian 5 y 6
 
 **Actividad 8:**
 
-A continuación asignaremos los registros especiales
+> A continuación asignaremos los registros especiales
 
 * Pablo:
 
@@ -229,6 +229,42 @@ A continuación asignaremos los registros especiales
 ![Alt text](Imágenes/Act8RegistrosEspeciales-TMRM-1.png)
 
 ![Alt text](Imágenes/Act8RegistrosEspeciales-TMRM-2.png)
+
+
+**Actividad 9:**
+
+Lo siguiente que haremos será la transferencia de zona:
+
+> Para empezar configurando en el Debian6-Pruebas pondremos (/etc/bind/named.conf.local) los registros en modo esclavo:
+
+* Raúl:
+
+![Alt text](Imágenes/Act9TranferenciaZona-TMRM.png)
+
+* Pablo:
+
+![Alt text](Imágenes/Act9TranferenciaZona-RMP.png)
+
+> Además debemos cambiar el fichero named.conf.options para activar la opción de que reciba la transferencia de zona:
+
+* Raúl:
+
+![Alt text](Imágenes/Act9TranferenciaZona-NamedConfOptions-TMRM.png)
+
+* Pablo:
+
+![Alt text](Imágenes/Act9TranferenciaZona-NamedConfOptions-RMP.png)
+
+> Por último, tendremos que activar la opción de transferencia de zona en el Debian5-Pruebas.
+
+* Raúl:
+
+![Alt text](Imágenes/ActivacionTransferenciaZona-TMRM.png)
+
+* Pablo:
+
+![Alt text](Imágenes/ActivacionTransferenciaZona-RMP.png)
+
 
 
 
