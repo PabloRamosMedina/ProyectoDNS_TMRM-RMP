@@ -81,6 +81,8 @@ Lo hemos dotado de tres departamentos (Redes sociales, Producción y Recepción)
 
 ![Alt text](Imágenes/EspaciodeNombre-ProyectoDNS_RMP-TMRM.png)
 
+<br> <br>
+
 **Actividad 4:**
 
 Ahora pasaremos a configurar las zonas directas para que quede igual que en el espacio de nombre.
