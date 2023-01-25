@@ -130,4 +130,19 @@ Además deberemos añadir en el fichero "/etc/bind/named.conf.local" dos apartad
 
 ![Alt text](Imágenes/NamedConfLocal-RMP.png)
 
+Y ahora pasaremos a ver las configuraciones de los ficheros de Zona Inversa:
+
+> Los fichero son llamados de diferente forma debido a que se usan rangos de ip diferentes para cada uno
+
+* Raúl:
+
+  * db.172.17.55
+  
+![Alt text](Imágenes/ZonasInversasTMRM-1.png)
+
+ * db.172.17.56
+  
+![Alt text](Imágenes/ZonasInversasTMRM-2.png)
+
+* Pablo:
 
