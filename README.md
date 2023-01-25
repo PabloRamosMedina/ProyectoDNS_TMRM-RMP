@@ -10,22 +10,33 @@
 <br> <br>
 
 # Índice
+
+<br> <br>
+
 1. [Introducción](#id1)
 2. [Proyecto. Implantación del servicio DNS en el entorno de trabajo](#id2)
 3. [Conclusión](#id3)
 4. [Bibliografía](#id4)
 5. [Despedida y Agradecimientos](#id5)
 
-# Introducción
-<a name="id1"></a>
+<br> <br>
 
+<a name="id1"></a>
+# Introducción
+
+<br> <br>
 En este trabajo vamos a hacer un entorno de trabajo en el que instalaremos un servicio DNS, viendo sus posibilidades y haciendo que este sea lo más realista posible, este además será complementado con una subida a Github del proyecto.
 
-# Proyecto. Implantación del servicio DNS en el entorno de trabajo
+<br> <br>
+
 <a name="id2"></a>
+# Proyecto. Implantación del servicio DNS en el entorno de trabajo
+
+<br> <br>
 
 Primeramente, comenzamos con la instalación del servicio DNS tanto en Debian5-Pruebas como en Debian6-Pruebas. De esta forma nos ahorraremos tolerancia a fallos en la resolución DNS.
 
+<br> <br>
 
 **Actividad 1:**
 
@@ -130,6 +141,8 @@ Fichero db.recepcion.videopro.com
 
 ![Alt text](Imágenes/DbRecepcionVideoproCom-RMP.png)
 
+<br> <br>
+
 **Actividad 5:**
 
 Lo siguiente que hemos realizado ha sido configurar las zonas inversas de los servidores DNS, lo ficheros que hemos utilizado son dos:
@@ -174,6 +187,8 @@ Y ahora pasaremos a ver las configuraciones de los ficheros de Zona Inversa:
   
 ![Alt text](Imágenes/ZonasInversasRMP-2.png)
 
+<br> <br>
+
 **Actividad  6:**
 
 Para esto instalaremos en nuestro Debian1-Pruebas el servicio DNS.
@@ -190,6 +205,8 @@ Para esto instalaremos en nuestro Debian1-Pruebas el servicio DNS.
 * Pablo:
 
 ![Alt text](Imágenes/ResolvConfRMP.png)
+
+<br> <br>
 
 **Actividad  7:**
 
@@ -235,6 +252,7 @@ Debian 5 y 6
 
 ![Alt text](Imágenes/Act7ResolvConfDebian5y6-RMP.png)
 
+<br> <br>
 
 **Actividad 8:**
 
@@ -250,6 +268,7 @@ Debian 5 y 6
 
 ![Alt text](Imágenes/Act8RegistrosEspeciales-TMRM-2.png)
 
+<br> <br>
 
 **Actividad 9:**
 
@@ -285,6 +304,7 @@ Lo siguiente que haremos será la transferencia de zona:
 
 ![Alt text](Imágenes/ActivacionTransferenciaZona-RMP.png)
 
+<br> <br>
 
 **Actividad 10:**
 
@@ -310,6 +330,7 @@ Debian 6
 
 ![Alt text](Imágenes/Act10-Debian6-RMP.png)
 
+<br> <br>
 
 **Actividad 11:**
 
@@ -327,14 +348,20 @@ La estructura que hemos creado para subir los archivos a Git es la siguiente:
 
 > Una aspecto que hemos de comentar es que al hacer un push no hemos de usar “sudo” debido a que no dará error: “permission denied (ssh key)” o algo del estilo.
 
+<br> <br>
 
-# Conclusión
+
 <a name="id3"></a>
+# Conclusión
 
 En este trabajo hemos visto sus posibilidades y a nuestro parecer creemos que nos ha sido de utilidad para el futuro, ya que nos hemos informado de muchas opciones de configuración útiles y de algunos errores que nos han ido surgiendo a lo largo de este.
 
-# Bibliografía
+<br> <br>
+
 <a name="id4"></a>
+# Bibliografía
+
+<br> <br>
 
 Páginas y documentos que hemos visitado y nos han sido útiles para este trabajo.
 
@@ -345,12 +372,13 @@ Páginas y documentos que hemos visitado y nos han sido útiles para este trabaj
 * <https://es.stackoverflow.com/questions/77684/c%C3%B3mo-crear-carpetas-en-un-repositorio-de-github-sin-usar-git>
 * <https://chuletitaspinguino.wordpress.com/2016/11/05/crear-indices-con-markdown/>
 
+<br> <br>
   
+<a name="id5"></a> 
 # Despedida y Agradecimientos
- <a name="id5"></a>
 
 <p align="center">
-  <img width="500" height="500" src="Imágenes/agradecimientos.png">
+  <img width="800" height="500" src="Imágenes/agradecimientos.png">
 </p>
 
 
