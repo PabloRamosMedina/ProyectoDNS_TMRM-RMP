@@ -111,3 +111,16 @@ Fichero db.recepcion.videopro.com
 * Pablo
 
 ![Alt text](Imágenes/DbRecepcionVideoproCom-RMP.png)
+
+**Actividad 5:**
+
+Lo siguiente que hemos realizado ha sido configurar las zonas inversas de los servidores DNS, lo ficheros que hemos utilizado son dos:
+
+![Alt text](Imágenes/FicherosEsenciales.png)
+
+> Algo que hemos de añadir la foto de ejemplo de los ficheros usados ha sido sacada de las máquinas de "Raúl" en caso de que quieras usar las de Pablo el nombre de los fichero sería: db.172.17.40 y db.172.17.41
+
+Tendremos que modificar el fichero “/etc/bind/named.conf.local” y ponerlo de la siguiente manera.
+* Raúl:
+
+* Pablo:
