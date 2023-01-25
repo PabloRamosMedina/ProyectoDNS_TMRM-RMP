@@ -101,3 +101,13 @@ Fichero db.produccion.videopro.com
 * Pablo
 
 ![Alt text](Imágenes/DbProduccionVideoproCom-RMP.png)
+
+Fichero db.recepcion.videopro.com
+
+* Raul:
+
+![Alt text](Imágenes/DbRecepcionVideoproCom-TMRM.png)
+
+* Pablo
+
+![Alt text](Imágenes/DbRecepcionVideoproCom-RMP.png)
