@@ -1,0 +1,52 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.4.1
+
+# authoring-byte-order entry is generated, DO NOT DELETE
+authoring-byte-order little-endian;
+
+lease 172.17.41.202 {
+  starts 3 2022/12/07 08:13:16;
+  ends 4 2022/12/08 08:13:16;
+  tstp 4 2022/12/08 08:13:16;
+  cltt 3 2022/12/07 08:13:16;
+  binding state free;
+  hardware ethernet 08:00:27:37:f7:bd;
+}
+lease 172.17.41.201 {
+  starts 5 2023/01/20 09:39:24;
+  ends 6 2023/01/21 09:39:24;
+  tstp 6 2023/01/21 09:39:24;
+  cltt 5 2023/01/20 09:39:24;
+  binding state free;
+  hardware ethernet 08:00:27:37:f7:bd;
+  uid "\377'7\367\275\000\001\000\001(\360v\374\010\000'\347\313g";
+}
+lease 172.17.40.202 {
+  starts 2 2022/12/20 11:55:05;
+  ends 3 2022/12/21 11:55:05;
+  tstp 3 2022/12/21 11:55:05;
+  cltt 2 2022/12/20 11:55:05;
+  binding state free;
+  hardware ethernet 0a:00:27:00:00:00;
+  uid "\001\012\000'\000\000\000";
+}
+lease 172.17.40.203 {
+  starts 5 2023/01/20 10:15:36;
+  ends 6 2023/01/21 10:15:36;
+  tstp 6 2023/01/21 10:15:36;
+  cltt 5 2023/01/20 10:15:36;
+  binding state free;
+  hardware ethernet 08:00:27:37:f7:bd;
+  uid "\377'7\367\275\000\001\000\001(\360v\374\010\000'\347\313g";
+}
+lease 172.17.40.201 {
+  starts 5 2023/01/20 10:16:31;
+  ends 6 2023/01/21 10:16:31;
+  tstp 6 2023/01/21 10:16:31;
+  cltt 5 2023/01/20 10:16:31;
+  binding state free;
+  hardware ethernet 08:00:27:35:b7:a9;
+  uid "\377'5\267\251\000\001\000\001(\360v\374\010\000'\347\313g";
+}
+server-duid "\000\001\000\001+]\032\356\010\000'\212[\255";
+
