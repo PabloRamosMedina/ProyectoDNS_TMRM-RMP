@@ -69,3 +69,5 @@ Para que este muestre como fichero principal de zona el “db.videopro.com”
 El esencial es db.videopro.com. ya que es el de más alto nivel.
 
 Raul:
+
+![Alt text](Imágenes/DbVideoproCom-TMRM.png)
