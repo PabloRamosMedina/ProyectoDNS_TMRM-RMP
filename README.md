@@ -4,7 +4,7 @@
 <br> <br>
 
 <p align="center">
-  <img width="460" height="300" src="Imágenes/DNS.png">
+  <img width="500" height="500" src="Imágenes/DNS.png">
 </p>
 
 
