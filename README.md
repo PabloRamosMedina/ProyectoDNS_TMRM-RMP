@@ -91,3 +91,13 @@ Fichero db.redessociales.videopro.com:
 * Pablo
 
 ![Alt text](Imágenes/DbRrssVideoproCom-RMP.png)
+
+Fichero db.produccion.videopro.com
+
+* Raul:
+
+![Alt text](Imágenes/DbProduccionVideoproCom-TMRM.png)
+
+* Pablo
+
+![Alt text](Imágenes/DbProduccionVideoproCom-RMP.png)
