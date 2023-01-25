@@ -142,22 +142,24 @@ Y ahora pasaremos a ver las configuraciones de los ficheros de Zona Inversa:
 
 ![Alt text](Imágenes/ZonasInversasTMRM-1-2.png)
 
- * db.172.17.56
+  * db.172.17.56
   
 ![Alt text](Imágenes/ZonasInversasTMRM-2.png)
 
 * Pablo:
 
- * db.172.17.40
+  * db.172.17.40
   
 ![Alt text](Imágenes/ZonasInversasRMP-1.png)  
 
- * db.172.17.41
+  * db.172.17.41
   
 ![Alt text](Imágenes/ZonasInversasRMP-2.png)
 
 **Actividad  6:**
 
+Para esto instalaremos en nuestro Debian1-Pruebas el servicio DNS.
+En general lo único que deberemos hacer es instalar el servicio DNS en el Debian1-Pruebas, posteriormente solo deberemos poner que el Debian5-Pruebas y Debian 6-Pruebas apunten al Debian1-Pruebas como última opción para que busque en internet
 
 
 
