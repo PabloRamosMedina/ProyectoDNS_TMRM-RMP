@@ -148,7 +148,13 @@ Y ahora pasaremos a ver las configuraciones de los ficheros de Zona Inversa:
 
 * Pablo:
 
+  * db.172.17.40
+  
+![Alt text](Imágenes/ZonasInversasRMP-1.png)  
 
+  * db.172.17.41
+  
+![Alt text](Imágenes/ZonasInversasRMP-2.png)
 
 **Actividad  6:**
 
