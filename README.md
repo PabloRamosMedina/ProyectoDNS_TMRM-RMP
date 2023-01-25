@@ -9,6 +9,24 @@
 
 <br> <br>
 
+# Índice
+1. [Introducción](#id1)
+2. [Proyecto. Implantación del servicio DNS en el entorno de trabajo](#id2)
+3. [Conclusión](#id3)
+4. [Bibliografía](#id4)
+5. [Despedida y Agradecimientos](#id5)
+
+# Introducción
+<a name="id1"></a>
+
+En este trabajo vamos a hacer un entorno de trabajo en el que instalaremos un servicio DNS, viendo sus posibilidades y haciendo que este sea lo más realista posible, este además será complementado con una subida a Github del proyecto.
+
+# Proyecto. Implantación del servicio DNS en el entorno de trabajo
+<a name="id2"></a>
+
+Primeramente, comenzamos con la instalación del servicio DNS tanto en Debian5-Pruebas como en Debian6-Pruebas. De esta forma nos ahorraremos tolerancia a fallos en la resolución DNS.
+
+
 **Actividad 1:**
 
 La infraestructura seguida para nuestro proyecto es la siguiente:
@@ -180,9 +198,11 @@ Para equilibrar el balanceo de carga la mitad tendrá el Debian5-Pruebas como pr
 * Raúl:
 
 Debian 1
- ![Alt text](Imágenes/Act7ResolvConfDebian1-TMRM.png)
+
+![Alt text](Imágenes/Act7ResolvConfDebian1-TMRM.png)
  
 Debian 2
+
 ![Alt text](Imágenes/Act7ResolvConfDebian2-TMRM.png)
 
 Debian 3
@@ -267,8 +287,30 @@ Lo siguiente que haremos será la transferencia de zona:
 
 
 
+# Conclusión
+<a name="id3"></a>
 
+En este trabajo hemos visto sus posibilidades y a nuestro parecer creemos que nos ha sido de utilidad para el futuro, ya que nos hemos informado de muchas opciones de configuración útiles y de algunos errores que nos han ido surgiendo a lo largo de este.
 
+# Bibliografía
+<a name="id4"></a>
+
+Páginas y documentos que hemos visitado y nos han sido útiles para este trabajo.
+
+<https://docs.google.com/document/d/1SeBMEK_E_k2IVPu3FuOnJSZEZruWPnddoj-okjIqnGI/edit>
+<https://github.com/>
+<https://creativecommons.org/licenses/?lang=es_ES>
+<https://stackoverflow.com/questions/2643502/git-how-to-solve-permission-denied-publickey-error-when-using-git>
+<https://es.stackoverflow.com/questions/77684/c%C3%B3mo-crear-carpetas-en-un-repositorio-de-github-sin-usar-git>
+<https://chuletitaspinguino.wordpress.com/2016/11/05/crear-indices-con-markdown/>
+
+  
+# Despedida y Agradecimientos
+ <a name="id5"></a>
+
+<p align="center">
+  <img width="500" height="500" src="Imágenes/agradecimientos.png">
+</p>
 
 
 
