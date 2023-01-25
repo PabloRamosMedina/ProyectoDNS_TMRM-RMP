@@ -62,3 +62,10 @@ En nuestro caso estos son los ficheros que utilizaremos:
 
 Pero antes de todo hemos de configurar el fichero “/etc/bind/named.conf.local”
 
+![Alt text](Imágenes/NamedConfLocal.png)
+
+Para que este muestre como fichero principal de zona el “db.videopro.com”
+
+El esencial es db.videopro.com. ya que es el de más alto nivel.
+
+Raul:
