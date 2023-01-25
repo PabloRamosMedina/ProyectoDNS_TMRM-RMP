@@ -120,7 +120,8 @@ Lo siguiente que hemos realizado ha sido configurar las zonas inversas de los se
 
 > Algo que hemos de añadir la foto de ejemplo de los ficheros usados ha sido sacada de las máquinas de "Raúl" en caso de que quieras usar las de Pablo el nombre de los fichero sería: db.172.17.40 y db.172.17.41
 
-Tendremos que modificar el fichero “/etc/bind/named.conf.local” y ponerlo de la siguiente manera.
+Además deberemos añadir en el fichero "/etc/bind/named.conf.local" dos apartados para la zonas inversas:
+
 * Raúl:
 
 ![Alt text](Imágenes/NamedConfLocal-TMRM.png)
