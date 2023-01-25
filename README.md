@@ -43,10 +43,11 @@ A continuación comrobaremos el funcionammiento del DNS en los dos servidores de
 <br> <br>
 
 **Actividad 3:**
-
+<p style="text-align: justify;">
 Espacio de nombres: para este proyecto necesitaremos crear un espacio de nombres para guiarnos y así poder entender la estructura de la red. Para ello, nuestra empresa será “Videopro” y su dominio será videopro.com.
 
-        Lo hemos dotado de tres departamentos (Redes sociales, Producción y Recepción) además de los propios servidores DNS y los servidores de correo y web. También incluiremos dentro del departamento de Producción otros tres subdepartamentos (Audio, Video y Efectos especiales).
+Lo hemos dotado de tres departamentos (Redes sociales, Producción y Recepción) además de los propios servidores DNS y los servidores de correo y web. También incluiremos dentro del departamento de Producción otros tres subdepartamentos (Audio, Video y Efectos especiales).
+</p>
         
 <br> <br>
 
