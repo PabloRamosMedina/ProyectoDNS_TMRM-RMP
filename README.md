@@ -3,9 +3,7 @@
 
 <br> <br>
 
-<p align="center">
 ![Alt text](Imágenes/DNS.png)
-</p>
 
 <br> <br>
 
