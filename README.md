@@ -12,7 +12,9 @@ La infraestructura seguida para nuestro proyecto es la siguiente:
 ![Alt text](Imágenes/infraestructuraDNS.png)
 
 <br> <br>
+* Actividad 2:
 
+<br> <br>
 A continuación comrobaremos el funcionammiento del DNS en los dos servidores de nombre:  
 * Debian5-Pruebas
   - Raúl
@@ -41,7 +43,9 @@ A continuación comrobaremos el funcionammiento del DNS en los dos servidores de
   <br> <br>
   
 <br> <br>
+* Actividad 3:
 
+<br> <br>
 Otra parte importante de nuestro proyecto son los espacios de nombre usados los cuales son:
 <br> <br>
 ![Alt text](Imágenes/EspaciodeNombre-ProyectoDNS_RMP-TMRM.png)
