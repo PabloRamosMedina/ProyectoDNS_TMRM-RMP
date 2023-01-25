@@ -3,7 +3,10 @@
 
 <br> <br>
 
-![Alt text](Imágenes/DNS.png)
+<p align="center">
+  <img width="460" height="300" src="Imágenes/DNS.png">
+</p>
+
 
 <br> <br>
 
