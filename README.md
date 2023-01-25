@@ -123,4 +123,10 @@ Lo siguiente que hemos realizado ha sido configurar las zonas inversas de los se
 Tendremos que modificar el fichero “/etc/bind/named.conf.local” y ponerlo de la siguiente manera.
 * Raúl:
 
+![Alt text](Imágenes/NamedConfLocal-TMRM.png)
+
 * Pablo:
+
+![Alt text](Imágenes/NamedConfLocal-RMP.png)
+
+
