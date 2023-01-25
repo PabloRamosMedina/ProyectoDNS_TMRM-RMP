@@ -202,10 +202,10 @@ Para equilibrar el balanceo de carga la mitad tendrá el Debian5-Pruebas como pr
  * Debian 2
 ![Alt text](Imágenes/Act7ResolvConfDebian2-RMP.png)
 
- * Debian 3
+ *Debian 3
 ![Alt text](Imágenes/Act7ResolvConfDebian3-RMP.png)
 
- * Debian 5 y 6
+ *Debian 5 y 6
 ![Alt text](Imágenes/Act7ResolvConfDebian5y6-TMRM.png)
 
 
