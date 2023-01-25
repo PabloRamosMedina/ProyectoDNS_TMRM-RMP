@@ -311,18 +311,21 @@ Debian 6
 ![Alt text](Imágenes/Act10-Debian6-RMP.png)
 
 
+**Actividad 11:**
 
+La estructura que hemos creado para subir los archivos a Git es la siguiente:
 
+![Alt text](Imágenes/Act11.png)
 
+> Cada máquina con sus correspondientes ficheros “etc” y “var”, además con las claves ssh utilizadas para cada máquina. Subimos nuestras claves a git y realizamos todo el proceso de sincronización. Finalmente, lo subimos.
 
+![Alt text](Imágenes/Act11-2.png)
 
+> Y hacemos este proceso con las máquinas deseadas.
 
+![Alt text](Imágenes/Act11-3.png)
 
-
-
-
-
-
+> Una aspecto que hemos de comentar es que al hacer un push no hemos de usar “sudo” debido a que no dará error: “permission denied (ssh key)” o algo del estilo.
 
 
 # Conclusión
