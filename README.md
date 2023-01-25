@@ -9,7 +9,7 @@
 
 <br> <br>
 
-* Actividad 1:
+**Actividad 1:
 
 La infraestructura seguida para nuestro proyecto es la siguiente:
 <br> <br>
@@ -17,7 +17,7 @@ La infraestructura seguida para nuestro proyecto es la siguiente:
 
 <br> <br>
 
-* Actividad 2:
+**Actividad 2:
 
 A continuación comrobaremos el funcionammiento del DNS en los dos servidores de nombre:  
 * Debian5-Pruebas
@@ -48,7 +48,7 @@ A continuación comrobaremos el funcionammiento del DNS en los dos servidores de
   
 <br> <br>
 
-* Actividad 3:
+**Actividad 3:
 
 Otra parte importante de nuestro proyecto son los espacios de nombre usados los cuales son:
 <br> <br>
