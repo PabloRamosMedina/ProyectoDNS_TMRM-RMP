@@ -59,3 +59,6 @@ Ahora pasaremos a configurar las zonas directas para que quede igual que en el e
 En nuestro caso estos son los ficheros que utilizaremos:
 
 ![Alt text](Imágenes/FicherosUtilizados.png)
+
+Pero antes de todo hemos de configurar el fichero “/etc/bind/named.conf.local”
+
