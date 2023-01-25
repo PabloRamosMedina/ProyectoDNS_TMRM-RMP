@@ -239,21 +239,21 @@ Lo siguiente que haremos será la transferencia de zona:
 
 * Raúl:
 
-![Alt text](Imágenes/Act9TranferenciaZona-TMRM.png)
+![Alt text](Imágenes/Act9TransferenciaZona-TMRM.png)
 
 * Pablo:
 
-![Alt text](Imágenes/Act9TranferenciaZona-RMP.png)
+![Alt text](Imágenes/Act9TransferenciaZona-RMP.png)
 
 > Además debemos cambiar el fichero named.conf.options para activar la opción de que reciba la transferencia de zona:
 
 * Raúl:
 
-![Alt text](Imágenes/Act9TranferenciaZona-NamedConfOptions-TMRM.png)
+![Alt text](Imágenes/Act9TransferenciaZona-NamedConfOptions-TMRM.png)
 
 * Pablo:
 
-![Alt text](Imágenes/Act9TranferenciaZona-NamedConfOptions-RMP.png)
+![Alt text](Imágenes/Act9TransferenciaZona-NamedConfOptions-RMP.png)
 
 > Por último, tendremos que activar la opción de transferencia de zona en el Debian5-Pruebas.
 
