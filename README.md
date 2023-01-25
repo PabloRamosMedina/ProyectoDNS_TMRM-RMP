@@ -82,4 +82,12 @@ Fichero db.videopro.com:
 
 ![Alt text](Imágenes/DbVideoproCom-RMP-2.png)
 
+Fichero db.redessociales.videopro.com:
 
+* Raul:
+
+![Alt text](Imágenes/DbRrssVideoproCom-TMRM.png)
+
+* Pablo
+
+![Alt text](Imágenes/DbRrssVideoproCom-RMP.png)
