@@ -68,6 +68,18 @@ Para que este muestre como fichero principal de zona el “db.videopro.com”
 
 El esencial es db.videopro.com. ya que es el de más alto nivel.
 
-Raul:
+Fichero db.videopro.com:
+
+* Raul:
 
 ![Alt text](Imágenes/DbVideoproCom-TMRM.png)
+
+![Alt text](Imágenes/DbVideoproCom-TMRM-2.png)
+
+* Pablo
+
+![Alt text](Imágenes/DbVideoproCom-RMP.png)
+
+![Alt text](Imágenes/DbVideoproCom-RMP-2.png)
+
+
