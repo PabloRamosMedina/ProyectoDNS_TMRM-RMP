@@ -286,6 +286,44 @@ Lo siguiente que haremos será la transferencia de zona:
 ![Alt text](Imágenes/ActivacionTransferenciaZona-RMP.png)
 
 
+**Actividad 10:**
+
+Ahora realizaremos un par de pruebas para comprobar que funcione:
+
+* Raúl:
+
+Debian 5
+
+![Alt text](Imágenes/Act10-Debian5-TMRM.png)
+
+Debian 6
+
+![Alt text](Imágenes/Act10-Debian6-TMRM.png)
+
+* Pablo:
+
+Debian 5
+
+![Alt text](Imágenes/Act10-Debian5-RMP.png)
+
+Debian 6
+
+![Alt text](Imágenes/Act10-Debian6-RMP.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Conclusión
 <a name="id3"></a>
