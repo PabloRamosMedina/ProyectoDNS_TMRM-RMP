@@ -1,0 +1,8 @@
+4f13cc18155f151b13c2a462c16f97f6  usr/bin/wireshark
+2c5c965e84519bca8718f3c634281c01  usr/share/applications/wireshark.desktop
+d6868efc256f4cb28f21be53b068937c  usr/share/doc/wireshark-qt/README.Debian.gz
+118c6f683c95ce020bd727320c2cd1c5  usr/share/doc/wireshark-qt/changelog.Debian.gz
+5513e0e65af2a427538c2ad742ef60cf  usr/share/doc/wireshark-qt/changelog.gz
+3ac349dc59f734d698a220d2f3669368  usr/share/doc/wireshark-qt/copyright
+33b59ad8e377dbe80e8aac6a70ff7dfd  usr/share/lintian/overrides/wireshark-qt
+d5084326d5b7c094daaeddb8117ff922  usr/share/man/man1/wireshark.1.gz

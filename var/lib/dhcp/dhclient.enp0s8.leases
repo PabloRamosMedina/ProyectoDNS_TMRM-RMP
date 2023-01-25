@@ -1,0 +1,31 @@
+default-duid "\000\001\000\001+\007r\244\010\000'\365\354U";
+lease {
+  interface "enp0s8";
+  fixed-address 10.0.3.15;
+  filename "Debian6-Pruebas.pxe";
+  option subnet-mask 255.255.255.0;
+  option routers 10.0.3.2;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 10.0.3.3;
+  option dhcp-server-identifier 10.0.3.2;
+  option domain-name ".";
+  renew 2 2023/01/24 20:08:03;
+  rebind 3 2023/01/25 06:37:43;
+  expire 3 2023/01/25 09:37:43;
+}
+lease {
+  interface "enp0s8";
+  fixed-address 10.0.3.15;
+  filename "Debian6-Pruebas.pxe";
+  option subnet-mask 255.255.255.0;
+  option dhcp-lease-time 86400;
+  option routers 10.0.3.2;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 10.0.3.2;
+  option domain-name-servers 10.0.3.3;
+  option domain-name ".";
+  renew 3 2023/01/25 18:34:57;
+  rebind 4 2023/01/26 04:25:53;
+  expire 4 2023/01/26 07:25:53;
+}
