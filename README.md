@@ -140,9 +140,19 @@ Y ahora pasaremos a ver las configuraciones de los ficheros de Zona Inversa:
   
 ![Alt text](Imágenes/ZonasInversasTMRM-1.png)
 
+![Alt text](Imágenes/ZonasInversasTMRM-1-2.png)
+
  * db.172.17.56
   
 ![Alt text](Imágenes/ZonasInversasTMRM-2.png)
 
 * Pablo:
+
+
+
+**Actividad  6:**
+
+
+
+
 
