@@ -1,0 +1,26 @@
+//include "/etc/bind/zones.rfc1918";
+
+zone "videopro.com"
+{
+	type slave;
+	file "/var/lib/bind/db.videopro.com";
+	masters {172.17.55.11;};
+};
+
+// Zonas inversas
+
+// Red No1: 172.17.55.0/24
+zone "55.17.172.in-addr.arpa"
+{
+	type slave;
+	file "/var/lib/bind/db.172.17.55";
+	masters {172.17.55.11;};	
+};
+
+// Red No2: 172.17.56.0/24
+zone "56.17.172.in-addr.arpa"
+{
+	type slave;
+	file "/var/lib/bind/db.172.17.56";
+	masters {172.17.55.11;};
+};
